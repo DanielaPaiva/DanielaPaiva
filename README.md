@@ -5,3 +5,6 @@
 :mortar_board:Formada em Gestão Empresarial - Fatec<br>
 :computer: Buscando desenvolver e aprimorar meus projetos. <br>
 :speech_balloon:Sobre mim: Curto tecnologias, rolês, dogs e  séries.<br>
+Entre em contato:<br>
+<a target="_blank" href="link=mailto:danielapaiva386@gmail.com"> <img src = "https://cdn2.iconfinder.com/data/icons/social-icons-circular-color/512/gmail-512.png" align = "left"  "width =" 45 "height =" 45 " /> </a>
+<a target=" _blank" href="https://www.linkedin.com/in/daniela-de-paiva/"> <img src = "https://cdn.iconscout.com/icon/free/png-256/linkedin-42-151143.png" align = "left  "width =" 45 "height =" 45 "/> </a>
